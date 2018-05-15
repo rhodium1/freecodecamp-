@@ -1,0 +1,20 @@
+#topdiv{
+    height: 500px;
+    background: url("1.jpg") center;
+}
+h1{
+    font-size: 5em;
+}
+.character{
+    width: 25%;
+    float: left;
+    padding: 10px;
+}
+img{
+    width: 100%;
+    height: 380px;
+}
+ul p{
+    text-align: center;
+    font-size: 2em;
+}
